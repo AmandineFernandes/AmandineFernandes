@@ -1,6 +1,7 @@
-#### Hello there 👋, I'm Amandine Fernandes, a french web developer
+## Hello there 👋, 
+### I'm Amandine Fernandes, a french web developer
 
-##### Connect with me:
+#### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/amandine-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amandine-fernandes" height="30" width="40" /></a>
 <a href="https://dribbble.com/amandinefernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="amandinefernandes" height="30" width="40" /></a>
