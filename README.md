@@ -1,6 +1,6 @@
 ### Hello there 👋, 
 
-<p align="left"> I'm Amandine, a french web developer </p>
+<p align="left"> I'm Amandine, a french web developer and graphic designer. </p>
 
 #### 👩🏽‍💻 Connect with me:
 <p align="left">
